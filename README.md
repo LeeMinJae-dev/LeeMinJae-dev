@@ -1,6 +1,6 @@
 <div align=center>
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LeeMinJae%20%20&height=200&fontSize=120&fontColor=eaf7fe) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LeeMinJae%20%20&height=200&fontSize=120&fontColor=ffffff) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMinJae-dev&show_icons=true&theme=vue ) 
 
 
