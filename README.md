@@ -1,9 +1,10 @@
 <div align=center>
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LeeMinJae%20%20&height=120&fontSize=120&fontColor=eaf7fe) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMinJae-dev&show_icons=true&theme=midnight-purple) 
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LeeMinJae%20%20&height=200&fontSize=120&fontColor=eaf7fe) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMinJae-dev&show_icons=true&theme=vue ) 
+
+
+
 
 ## <div align=center> Tech Stack
 
